@@ -27,3 +27,6 @@ class Solution {
            count++;
            num=num/10;
         }
+        return count;
+    }
+}
