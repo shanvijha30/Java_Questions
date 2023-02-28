@@ -5,6 +5,7 @@ public static void main(String args[])
 int [] arr={-18,-12,-4,0,2,3,4,15,16,22,45,89}
 int target=22;
 int ans= binarysearch(arr,target);
+System.out.println(ans);
 }
 static int binarysearch(int[] arr, int target)
 {
